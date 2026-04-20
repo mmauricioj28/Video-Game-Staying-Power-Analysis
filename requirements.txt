@@ -1,0 +1,6 @@
+pandas
+requests
+notebook
+matplotlib
+sqlalchemy
+scikit-learn
