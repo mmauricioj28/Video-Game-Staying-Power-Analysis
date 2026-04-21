@@ -15,3 +15,14 @@ CREATE TABLE IF NOT EXISTS games_metadata (
     header_image TEXT,
     website TEXT
 );
+
+
+CREATE TABLE IF NOT EXISTS reviews (
+    app_id INTEGER PRIMARY KEY,
+    review_score_desc TEXT,
+    review_score REAL,
+    total_positive INTEGER,
+    total_negative INTEGER,
+    total_reviews INTEGER,
+    positive_ratio REAL
+);
