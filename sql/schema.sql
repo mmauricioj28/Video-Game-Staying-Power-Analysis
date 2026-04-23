@@ -26,3 +26,8 @@ CREATE TABLE IF NOT EXISTS reviews (
     total_reviews INTEGER,
     positive_ratio REAL
 );
+
+CREATE TABLE IF NOT EXISTS engagement (
+    app_id INTEGER PRIMARY KEY,
+    current_players INTEGER
+);
