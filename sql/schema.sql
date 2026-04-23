@@ -31,3 +31,10 @@ CREATE TABLE IF NOT EXISTS engagement (
     app_id INTEGER PRIMARY KEY,
     current_players INTEGER
 );
+
+CREATE TABLE IF NOT EXISTS content_support (
+    app_id INTEGER PRIMARY KEY,
+    latest_date TEXT,
+    feedlabel TEXT,
+    tags TEXT
+);
