@@ -1,6 +1,7 @@
 pandas
+numpy
 requests
 notebook
 matplotlib
-sqlalchemy
 scikit-learn
+sqlalchemy
