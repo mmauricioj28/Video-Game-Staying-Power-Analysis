@@ -8,6 +8,14 @@ The data was collected from Steam APIs, including:
 - Steam current player count API
 - Steam news/update API
 
+## Installation
+
+Install the required Python libraries by running:
+
+```bash
+pip install -r requirements.txt
+```
+
 Video-Game-Staying-Power-Analysis/
 │
 ├── data/
