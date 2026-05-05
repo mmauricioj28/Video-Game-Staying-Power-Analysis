@@ -58,7 +58,9 @@ Video-Game-Staying-Power-Analysis/
 └── README.md 
 
 
-## 5. Data Pipeline
+## Data Pipeline
+
+```markdown
 Run these notebooks in these orders
 
 1. 01_data_collection
@@ -72,7 +74,7 @@ Run these notebooks in these orders
 9. 06_model_predictions
 
 
-Explain the order of the project.
+## Project Order
 
 ```markdown
 The project follows this process:
