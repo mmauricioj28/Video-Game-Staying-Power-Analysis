@@ -73,6 +73,7 @@ Run these notebooks in these orders
 8. 05_analysis
 9. 06_model_predictions
 
+```
 
 ## Project Order
 
