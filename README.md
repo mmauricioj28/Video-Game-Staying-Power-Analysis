@@ -15,7 +15,8 @@ Install the required Python libraries by running:
 ```bash
 pip install -r requirements.txt
 ```
-
+## File Structure
+```markdown
 Video-Game-Staying-Power-Analysis/
 │
 ├── data/
@@ -65,6 +66,7 @@ Video-Game-Staying-Power-Analysis/
 ├── requirements.txt
 └── README.md 
 
+```
 
 ## Data Pipeline
 
