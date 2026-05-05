@@ -85,6 +85,20 @@ Run these notebooks in these orders
 
 ```
 
+#DataBase
+
+```markdown
+The SQLite database contains four main tables:
+
+- `games_metadata`
+- `reviews`
+- `engagement`
+- `content_support`
+
+These tables are joined using `app_id`.
+```
+
+
 ## Project Order
 
 ```markdown
